@@ -10,3 +10,6 @@ httpx
 python-dotenv
 pytz
 httpx
+langchain-core
+starlette
+Scintilla
